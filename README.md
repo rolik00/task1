@@ -9,6 +9,7 @@
 
 
 Код на самом ubuntu:
+
 ![image](https://github.com/rolik00/task1/assets/148611487/d57087da-0f21-4387-9edd-150afaa8502a)
 
 Примеры работы:
