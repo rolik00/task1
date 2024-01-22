@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Эксперотируем переменные окружений LENGTH и WIDTH
+#Экспортируем переменные окружений LENGTH и WIDTH
 export LENGTH
 export WIDTH
 
